@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SegundoProjeto", "SegundoProjeto\SegundoProjeto.csproj", "{4BEBD10A-E643-495E-9D77-BEA6293A33F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplementarUm_Editora", "ComplementarUm_Editora\ComplementarUm_Editora.csproj", "{633FB448-4D74-4313-8A25-8EF24F8F1C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BEBD10A-E643-495E-9D77-BEA6293A33F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BEBD10A-E643-495E-9D77-BEA6293A33F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BEBD10A-E643-495E-9D77-BEA6293A33F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BEBD10A-E643-495E-9D77-BEA6293A33F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633FB448-4D74-4313-8A25-8EF24F8F1C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633FB448-4D74-4313-8A25-8EF24F8F1C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633FB448-4D74-4313-8A25-8EF24F8F1C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633FB448-4D74-4313-8A25-8EF24F8F1C10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8569C02-09F7-4B44-BE4B-B9565C85C9F5}
+	EndGlobalSection
+EndGlobal

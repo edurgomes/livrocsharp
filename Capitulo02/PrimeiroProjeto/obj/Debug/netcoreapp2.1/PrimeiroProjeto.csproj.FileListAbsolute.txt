@@ -1,0 +1,11 @@
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.deps.json
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.runtimeconfig.json
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.dll
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\bin\Debug\netcoreapp2.1\PrimeiroProjeto.pdb
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.csprojAssemblyReference.cache
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.dll
+C:\Users\retta\Desktop\Livro OO C#\Capitulo02\PrimeiroProjeto\obj\Debug\netcoreapp2.1\PrimeiroProjeto.pdb

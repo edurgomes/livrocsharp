@@ -1,0 +1,11 @@
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\bin\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.exe
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\bin\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.deps.json
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\bin\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.runtimeconfig.json
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\bin\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.runtimeconfig.dev.json
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\bin\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.dll
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\bin\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.pdb
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\obj\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.csprojAssemblyReference.cache
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\obj\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\obj\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\obj\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.dll
+C:\Users\Eduardo\Desktop\Livro OO C#-20191105T223607Z-001\Livro OO C#\Capitulo04\ComplementarUm_CollectionVariosTipos\obj\Debug\netcoreapp3.0\ComplementarUm_CollectionVariosTipos.pdb
